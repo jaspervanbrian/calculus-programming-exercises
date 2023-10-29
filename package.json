@@ -9,7 +9,7 @@
     "test-is-function": "npx nodemon isFunction.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jasper Martin (A00093437)",
   "license": "ISC",
   "dependencies": {
     "mathjs": "^12.0.0",
